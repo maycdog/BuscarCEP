@@ -7,7 +7,7 @@ O BuscaCEP Java é uma aplicação simples desenvolvida em Java para realizar co
 1. [Visão Geral](#visão-geral)
 2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 3. [Instalação](#instalação)
-4. [Uso](#Tutorial-de-Uso).
+4. [Uso](#Tutorial-de-Uso)
 5. [Estrutura do Projeto](#estrutura-do-projeto)
 6. [Licença](#licença)
 7. [Agradecimentos](#agradecimentos)
