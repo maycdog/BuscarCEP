@@ -7,7 +7,7 @@ Este projeto Java permite aos usuários buscar informações de endereço a part
 1. [Visão Geral](#visão-geral)
 2. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 3. [Instalação](#instalação)
-4. [Uso](#Uso)
+4. [Uso](#Tutorial-de-Uso).
 5. [Estrutura do Projeto](#estrutura-do-projeto)
 6. [Licença](#licença)
 7. [Agradecimentos](#agradecimentos)
