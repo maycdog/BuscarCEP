@@ -1,6 +1,6 @@
 # BuscarCEP JAVA
 
-Descrição detalhada do projeto.
+Este projeto Java permite aos usuários buscar informações de endereço a partir de um CEP fornecido. Utiliza uma interface gráfica simples para inserção do CEP e exibição dos dados correspondentes.
 
 ## Índice
 
@@ -20,36 +20,30 @@ O BuscaCEP Java é uma aplicação simples desenvolvida em Java para realizar co
 
 ## Tecnologias Utilizadas
 
-Liste as principais tecnologias, frameworks, bibliotecas ou APIs que seu projeto utiliza.
+1. Java: Linguagem de programação principal.
+2. Swing: Utilizado para a construção da interface gráfica.
+3. DOM4J: Biblioteca para manipulação de documentos XML.
+4. Atxy2k CustomTextField: Biblioteca para validação de campos de texto.
 
 ## Instalação
 
-Forneça instruções detalhadas sobre como instalar o seu projeto. Isso pode incluir requisitos de sistema, dependências e passos específicos para diferentes plataformas.
-
-## Configuração
-
-Explique como configurar o ambiente de desenvolvimento necessário para trabalhar no projeto. Isso pode incluir configuração de banco de dados, variáveis de ambiente, ou qualquer configuração específica.
+Java Development Kit (JDK) instalado.
+Conexão com a internet para consulta do serviço web.
 
 ## Uso
 
-Forneça exemplos de como utilizar o seu projeto. Isso pode incluir exemplos de código, comandos de linha, ou capturas de tela demonstrando o funcionamento do projeto.
+1. Clone ou faça o download do repositório.
+2. Abra o projeto em um ambiente de desenvolvimento Java compatível (como Eclipse, IntelliJ, etc.).
+3. Compile e execute a classe Cep.java.
 
 ## Estrutura do Projeto
 
 Descreva a estrutura de diretórios e arquivos do seu projeto. Isso pode ajudar os usuários e colaboradores a navegar e entender a organização do código fonte.
 
-## Contribuição
-
-Explique como os colaboradores podem ajudar no desenvolvimento do projeto. Isso pode incluir orientações para envio de pull requests, padrões de codificação, diretrizes de estilo, e informações sobre como reportar problemas.
-
 ## Licença
 
-Declare a licença sob a qual o projeto está disponível. Inclua o texto completo da licença ou um link para onde ela pode ser encontrada.
-
-## Contato
-
-Forneça informações de contato para que os usuários possam obter suporte ou fazer perguntas sobre o projeto. Isso pode incluir seu e-mail, links para redes sociais ou um link para a seção de issues do repositório.
+Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ---
 
-Este é um modelo mais completo que pode ser adaptado de acordo com as necessidades específicas do seu projeto. Lembre-se de que o README deve ser claro, conciso e informativo, ajudando tanto os novos usuários quanto os colaboradores a entenderem e contribuírem com seu projeto Java no GitHub.
+Este projeto foi desenvolvido como parte de um estudo pessoal e baseia-se em tutoriais disponíveis online.
