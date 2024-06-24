@@ -1,6 +1,6 @@
 # BuscarCEP JAVA
 
-Este projeto Java permite aos usuários buscar informações de endereço a partir de um CEP fornecido. Utiliza uma interface gráfica simples para inserção do CEP e exibição dos dados correspondentes.
+O BuscaCEP Java é uma aplicação simples desenvolvida em Java para realizar consultas de CEP (Código de Endereçamento Postal). Este projeto visa facilitar a integração e utilização de serviços de consulta de CEP em aplicações Java.
 
 ## Índice
 
@@ -14,7 +14,7 @@ Este projeto Java permite aos usuários buscar informações de endereço a part
 
 ## Visão Geral
 
-O BuscaCEP Java é uma aplicação simples desenvolvida em Java para realizar consultas de CEP (Código de Endereçamento Postal). Este projeto visa facilitar a integração e utilização de serviços de consulta de CEP em aplicações Java.
+Este projeto Java permite aos usuários buscar informações de endereço a partir de um CEP fornecido. Utiliza uma interface gráfica simples para inserção do CEP e exibição dos dados correspondentes.
 
 ## Tecnologias Utilizadas
 
